@@ -47,14 +47,14 @@ const RESOURCES = {".firebase/hosting.cHVibGlj.cache": "25b49d2fbee827b04132b9eb
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2eb2da1ed6916f3199a91c382fdff2e8",
-"/": "c6674d7bfc44eababe6ff359461b2a8b",
-"main.dart.js": "ff07bb74eb2e740e7c74500051226671",
+"index.html": "4754fa79d7b716be1354b37e356449c0",
+"/": "5eba6539c13274215df5bcce6058a1d6",
+"main.dart.js": "fb643958bf5eb5905638e84d27d79951",
 "manifest.json": "3f3b22454ec61a70f5cb779f83e5945c",
-"public/index.html": "aa6e5fc7ada297932deeef3e45ee6439",
+"public/index.html": "88f6fae98d2fcb33842b154208971987",
 "storage.rules": "0f01e323aa2f5ba00fbcf0d305d96b39",
 "version.json": "61187295a4617daa5ea2b8c9db45ae80",
-"web/index.html": "c6674d7bfc44eababe6ff359461b2a8b"};
+"web/index.html": "5eba6539c13274215df5bcce6058a1d6"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
